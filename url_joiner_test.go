@@ -1,7 +1,7 @@
 package urljoiner_test
 
 import (
-	. "github.com/cloudfoundry/gunk/urljoiner"
+	. "code.cloudfoundry.org/urljoiner"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
