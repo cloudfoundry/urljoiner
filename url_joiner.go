@@ -1,4 +1,4 @@
-package urljoiner
+package urljoiner // import "code.cloudfoundry.org/urljoiner"
 
 func Join(base string, components ...string) string {
 	final := base
